@@ -1,0 +1,40 @@
+---
+title: About
+about:
+  template: trestles
+  image: assets/images/profile.webp
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/mjpinov
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/cotepino.bsky.social 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mariajose-pino/
+---
+
+### **Hey!** 
+
+Thanks for stopping by!
+
+I'm Michelle Logan, a PhD Student and Biotechnology Engineer. I work primarily with R and Python, focusing on data science and machine learning. I have a passion for building tools that make data analysis more accessible and efficient.
+I love contributing to open source projects and collaborating with others in the tech community. My goal is to create software that not only solves problems but also inspires others to explore the world of programming.
+
+When I'm not coding, you can find me hiking, reading, or experimenting with new recipes in the kitchen. I believe in continuous learning and strive to improve my skills every day. I hope you find something useful here, whether it's a blog post, a project, or just a bit of inspiration. Feel free to reach out if you have any questions or just want to chat about tech!
+
+## Education
+
+Karolinska Institutet, Stockholm | Stockholm, SWE
+PhD in Immunology | March 2025 - prensent
+
+University of Chile, Santiago | Santiago, CH
+MSc in Biological Sciences | April 2022 - January 2024
+
+University of Chile, Santiago | Santiago, CH
+BSc in Biotechnology Engineer | March 2015 - January 2022
+
+## Experience
+
+Engblom Lab, Karolinska Institut | Research Assistant | April 2024 - March 2025

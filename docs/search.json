@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Thanks for stopping by!\nI’m Michelle Logan, a PhD Student and Biotechnology Engineer. I work primarily with R and Python, focusing on data science and machine learning. I have a passion for building tools that make data analysis more accessible and efficient. I love contributing to open source projects and collaborating with others in the tech community. My goal is to create software that not only solves problems but also inspires others to explore the world of programming.\nWhen I’m not coding, you can find me hiking, reading, or experimenting with new recipes in the kitchen. I believe in continuous learning and strive to improve my skills every day. I hope you find something useful here, whether it’s a blog post, a project, or just a bit of inspiration. Feel free to reach out if you have any questions or just want to chat about tech!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nKarolinska Institutet, Stockholm | Stockholm, SWE PhD in Immunology | March 2025 - prensent\nUniversity of Chile, Santiago | Santiago, CH MSc in Biological Sciences | April 2022 - January 2024\nUniversity of Chile, Santiago | Santiago, CH BSc in Biotechnology Engineer | March 2015 - January 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nEngblom Lab, Karolinska Institut | Research Assistant | April 2024 - March 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tutorial",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog/2025-05-30-arranging-quarto-images/index.html",
+    "href": "blog/2025-05-30-arranging-quarto-images/index.html",
+    "title": "Arranging images in Quarto",
+    "section": "",
+    "text": "Images can be arranged side by side in Quarto using the columns layout. Here’s how you can do it:\n::: {#fig-mylabel layout-ncol=2}\n\n![Caption for figure 1](vdj_method.webp)\n\n![Caption for figure 2](featured.webp)\n\nThis is a common caption.\n:::\n\n\n\n\n\n\n\n\nCaption for figure 1\n\n\n\n\n\n\n\nCaption for figure 2\n\n\n\n\n\n\nFigure 1: This is a common caption."
+  }
+]

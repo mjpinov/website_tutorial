@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: María José Pino
+  description: A website built with Quarto
+  navbar:
+    title: María José Pino
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+  page-footer:
+    left: &#169; 2025 María José Pino
+    right: Made with [Quarto](https://quarto.org)
+
+format:
+  html:
+    theme: vapor #minty #quartz 
+    css: styles.css
+    toc: true
+
+
+
